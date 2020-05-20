@@ -1,0 +1,56 @@
+table{
+          width: 100%;
+          height: auto;
+
+
+}
+
+
+.jumbotron{
+    text-align:center;         
+}
+body{
+
+       padding: 7px;
+       margin: 0;
+
+
+
+
+}
+.footer{
+
+           text-align: center;
+
+
+}
+hr{
+
+    color: black;
+
+
+}
+.back{
+            background-color: red;
+            
+
+}
+.default{
+
+              background-color: white;
+
+
+}
+
+.font{
+            font-size: 20px;
+            font-weight: bold;
+            border: 1px,solid,black;
+            width: 100%  
+
+/*#cspace:hover{
+  color: green;
+  cursor:pointer;
+}
+*/
+}
